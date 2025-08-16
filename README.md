@@ -7,7 +7,7 @@
 ## 📞 Contact Information
 - **Phone:** +8801618129800
 - **Email:** knabirofficial@gmail.com
-- **Website:** [www.nowshadabir.rf.gd] (http://www.nowshadabir.rf.gd)
+- **Website:** [www.kazinowshadabir.rf.gd] (http://www.nowshadabir.rf.gd)
 - **Address:** North Baharchara, Cox's Bazar, Bangladesh
 
 ---
@@ -34,6 +34,9 @@ Hi! I'm a creative, adaptable, and enthusiastic individual with a strong passion
 ---
 
 ## 💼 Job Experience
+
+### Manager  
+**Rashed Enterprise BD** | *January 2025 – Present*  
 
 ### Member, PR Team  
 **National Newspaper Olympiad** | *January 2022 – Present*  
